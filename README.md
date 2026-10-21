@@ -37,3 +37,7 @@ git clone https://github.com/decodengrow/instagram-visual-identity ~/.claude/ski
 SKILL.md              — роль, процесс, порядок выдачи, принципы
 references/stages.md  — подробный чек-лист по этапам и шаблон мастер-промпта
 ```
+
+## Лицензия
+
+MIT — см. [LICENSE](LICENSE).
